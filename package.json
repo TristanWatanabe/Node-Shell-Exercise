@@ -1,0 +1,22 @@
+{
+  "name": "node-shell-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristanWatanabe/Node-Shell-Exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TristanWatanabe/Node-Shell-Exercise/issues"
+  },
+  "homepage": "https://github.com/TristanWatanabe/Node-Shell-Exercise#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
